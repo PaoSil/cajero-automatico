@@ -142,20 +142,35 @@ Las funcionalidades que debe tener el sistema de **cajero automático**
 ![Imagen-6]()
 
 
-#### User Journey:
+#### Mapa del sitio:
 
-Para el User Journey, se empleo la técnica de **card sorting**
+Para esto se empleo el método de **card sorting**
 
-![Imagen-7]()
-![Imagen-8]()
+| Card Sorting | Link |
+|:----------:|:----:|
+| Imágenes| <> |
 
 
 #### Mapa de Arquitectura:
 
+##### Retiro:
+
 ![Imagen-9](assets/img/Retiros.png)
+
+##### Depósito:
+
 ![Imagen-10](assets/img/Depositos.png)
+
+##### Consultas:
+
 ![Imagen-11](assets/img/Consultas.png)
+
+##### Pagos:
+
 ![Imagen-12](assets/img/Pagos.png)
+
+##### Cambio de clave:
+
 ![Imagen-13](assets/img/Cambio-de-contraseña.png)
 
 
