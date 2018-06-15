@@ -153,23 +153,23 @@ Para esto se empleo el método de **card sorting**
 
 ### Mapa de Arquitectura:
 
-#### Retiro:
+   **Retiro**
 
 ![Imagen-9](assets/img/Retiros.png)
 
-#### Depósito:
+   **Depósito**
 
 ![Imagen-10](assets/img/Depositos.png)
 
-#### Consultas:
+   **Consultas**
 
 ![Imagen-11](assets/img/Consultas.png)
 
-#### Pagos:
+   **Pagos**
 
 ![Imagen-12](assets/img/Pagos.png)
 
-#### Cambio de clave:
+   **Cambio de clave**
 
 ![Imagen-13](assets/img/Cambio-de-contraseña.png)
 
