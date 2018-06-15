@@ -4,21 +4,21 @@ El cajero automático es una máquina que entrega y recibe dinero, que funcionan
 
 ![Imagen-1]()
 
-## Desarrollado para:
+### Desarrollado para:
 
 [Laboratoria](http://www.laboratoria.la/)
 
 ## Contexto:
 Los cajeros automáticos juegan un rol importante en el avance de Los canales modernos del sistema financiero. Ha sido tal el impacto a tal punto que hoy cada 215 segundos se instala un nuevo cajero automático en el mundo y en ellas se realizan 61.7 billones de disposiciones de efectivo anuales.
 
-## Proceso de desarrollo:
+### Proceso de desarrollo:
 
 En el proceso de desarrollo se va analizar cuáles serían las metodologías para poder llevar a cabo con éxito el producto que queremos desarrollar.
 
 ![Imagen-2](assets/img/image-2.png)
 
 
-### Plan Research:
+## Plan Research:
 
 1. **Objetivo:**
 
@@ -57,9 +57,9 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías par
    * Recabar información ya existentes de investigación de usabilidad, perfiles, negocio, etc.
    * Entrevistas se realizará de noche.
 
-#### Research Cualitativo:
+### Research Cualitativo:
 
-##### Entrevistas:
+#### Entrevistas:
 
 **Entrevista:**
 
@@ -85,9 +85,9 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías par
 * Añadir la opción de billete de diez soles y monedas.
 
 
-#### Research Cuantitativo:
+### Research Cuantitativo:
 
-##### Encuesta Online:
+#### Encuesta Online:
 
 | Encuesta Online | Link |
 |:---------------:|:----:|
@@ -111,11 +111,11 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías par
 * Les gustaría implementar la opción de poder retirar monedas y billetes de diez soles.
 * Que ya no se utilizen los botones ATM, ya que no concuerdan con las operaciones. Por eso proponen cambiarlos por pantallas táctiles.
 
-### Definición:
+## Definición:
 
-#### Benchmarking:
+### Benchmarking:
 
-##### Análisis competitivo:
+#### Análisis competitivo:
 
 Las funcionalidades que debe tener el sistema de **cajero automático**
 
@@ -127,7 +127,7 @@ Las funcionalidades que debe tener el sistema de **cajero automático**
 * **Iconos sencillos** con textos explicativos.
 
 
-##### Análisis comparativo
+#### Análisis comparativo
 
 
 | Banco | Acceso Directo| Pantalla inicial con acceso rápido| Fácil de navegar | Buena visualización | Botones grandes muy bién diferenciados | Iconos sencillos |
@@ -137,12 +137,12 @@ Las funcionalidades que debe tener el sistema de **cajero automático**
 |**Scotiabank**|**NO**|**NO**|**SÍ**|**NO**|**NO**|**NO**|
 
 
-#### User Persona:
+### User Persona:
 
 ![Imagen-6]()
 
 
-#### Mapa del sitio:
+### Mapa del sitio:
 
 Para esto se empleo el método de **card sorting**
 
@@ -151,29 +151,29 @@ Para esto se empleo el método de **card sorting**
 | Imágenes| <> |
 
 
-#### Mapa de Arquitectura:
+### Mapa de Arquitectura:
 
-##### Retiro:
+#### Retiro:
 
 ![Imagen-9](assets/img/Retiros.png)
 
-##### Depósito:
+#### Depósito:
 
 ![Imagen-10](assets/img/Depositos.png)
 
-##### Consultas:
+#### Consultas:
 
 ![Imagen-11](assets/img/Consultas.png)
 
-##### Pagos:
+#### Pagos:
 
 ![Imagen-12](assets/img/Pagos.png)
 
-##### Cambio de clave:
+#### Cambio de clave:
 
 ![Imagen-13](assets/img/Cambio-de-contraseña.png)
 
 
-### Diseño:
+## Diseño:
 
-#### Wireframes:
+### Wireframes:
