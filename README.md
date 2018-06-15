@@ -69,7 +69,7 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías par
 
 | Entrevista | Link |
 |:----------:|:----:|
-| Preguntas y Respuestas | <> |
+| Preguntas y Respuestas | <https://goo.gl/JuhN1n> |
 
 
 **2. Conclusiones:**
@@ -91,13 +91,13 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías par
 
 | Encuesta Online | Link |
 |:---------------:|:----:|
-| Stakeholders | <> |
+| Stakeholders | <https://goo.gl/zAu254> |
 
 ##### Datos Estadísticos:
 
-![Imagen-3]()
-![Imagen-4]()
-![Imagen-5]()
+![Imagen-3](assets/img/Research-cualitativo-1.png)
+![Imagen-4](assets/img/Research-cualitativo-2.png)
+![Imagen-5](assets/img/Research-cualitativo-3.png)
 
 **Conclusiones:**
 
