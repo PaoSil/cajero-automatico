@@ -1,4 +1,4 @@
-# Cajero automatico:
+# Cajero automático:
 
 El cajero automático es una máquina que entrega y recibe dinero, que funcionan activadas mediante una tarjeta y una clave secreta personal, que identifica a un usuario.
 
@@ -139,7 +139,7 @@ Las funcionalidades que debe tener el sistema de **cajero automático**
 
 ### User Persona:
 
-![Imagen-6]()
+![Imagen-6](assets/img/user-persona.png)
 
 
 ### Mapa del sitio:
