@@ -2,7 +2,7 @@
 
 El cajero automático es una máquina que entrega y recibe dinero, que funcionan activadas mediante una tarjeta y una clave secreta personal, que identifica a un usuario.
 
-![Imagen-1]()
+![Imagen-1](assets/img/Home.png)
 
 ### Desarrollado para:
 
@@ -177,3 +177,12 @@ Para esto se empleo el método de **card sorting**
 ## Diseño:
 
 ### Wireframes:
+
+![Imagen-14](assets/img/Home.png)
+![Imagen-15](assets/img/dni.png)
+![Imagen-16](assets/img/pin.png)
+![Imagen-17](assets/img/retiro.png)
+![Imagen-18](assets/img/importe.png)
+![Imagen-19](assets/img/billete.png)
+![Imagen-14](assets/img/confirmacion.png)
+![Imagen-14](assets/img/otra-op.png)
