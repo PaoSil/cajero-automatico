@@ -148,7 +148,7 @@ Para esto se empleo el método de **card sorting**
 
 | Card Sorting | Link |
 |:----------:|:----:|
-| Imágenes| <> |
+| Imágenes| <https://drive.google.com/drive/u/0/folders/1CG4xZ_pZHjSe57D1y1DiJgsSMm3ByFRp> |
 
 
 ### Mapa de Arquitectura:
@@ -182,10 +182,22 @@ Para esto se empleo el método de **card sorting**
 
 **Fuente:** <https://www.figma.com/file/Ig1rwFrso1oswzpWFMbNZDqm/Untitled?node-id=12%3A0>
 
-#### Marvel:
-
-**Fuente:** <https://marvelapp.com/38e2483/screen/44388916>
 
 ## Testing:
 
+**Fuente:** <https://drive.google.com/drive/u/0/folders/19negip-hIrYlgtH65UQsm2qIolV39GvY>
+
 ### Conclusiones:
+
+* Cada vez se pueden hacer más operaciones diferentes en los cajeros. Lo que recomendaba una reorganización de las opciones.
+* Los cajeros han incorporado operaciones más complejas que una consulta de saldo y que necesitan varios pasos para llevarlas a cabo.
+* Cajeros más sofisticados que incorporan otras capacidades avanzadas:
+    - Pantalla táctil.
+    - Escáner.
+    - Ingresador de billetes (el mínimo de S/. 160.00).
+
+### Diseño Final:
+
+#### Marvel:
+
+**Fuente:** <https://marvelapp.com/38e2483/screen/44388916>
