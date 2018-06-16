@@ -196,7 +196,8 @@ Para esto se empleo el método de **card sorting**
     - Escáner.
     - Ingresador de billetes (el mínimo de S/. 160.00).
 
-### Diseño Final:
+
+## Diseño Final:
 
 #### Marvel:
 
