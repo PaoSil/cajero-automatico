@@ -178,11 +178,14 @@ Para esto se empleo el método de **card sorting**
 
 ### Wireframes:
 
-![Imagen-14](assets/img/Home.png)
-![Imagen-15](assets/img/dni.png)
-![Imagen-16](assets/img/pin.png)
-![Imagen-17](assets/img/retiro.png)
-![Imagen-18](assets/img/importe.png)
-![Imagen-19](assets/img/billete.png)
-![Imagen-14](assets/img/confirmacion.png)
-![Imagen-14](assets/img/otra-op.png)
+#### Figma:
+
+**Fuente:** <https://www.figma.com/file/Ig1rwFrso1oswzpWFMbNZDqm/Untitled?node-id=12%3A0>
+
+#### Marvel:
+
+**Fuente:** <https://marvelapp.com/38e2483/screen/44388916>
+
+## Testing:
+
+### Conclusiones:
